@@ -1,8 +1,7 @@
-<h1>👋 Welcome</h1>
-<h2>⚡ About me:</h2>
-<h5>- Fullstack developer, mostly develop with Dart(Flutter), Go and Python(Django) 💻<br><br>
+<h1>👋 Welcome, find out about me:</h1>
+<h4>- Fullstack developer, mostly develop with Dart(Flutter), Go and Python(Django) 💻<br><br>
 - Has expirience in web development on Dart Angular, JS, HTML5, CSS3 🕸️<br><br>
-- Now I mainly do mobile 📱 development and backend ⚙️<br><br></h5>
+- Now I mainly do mobile 📱 development and backend ⚙️<br><br></h4>
 <h2>📊 Stats:</h2>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mbilarusdev&theme=dark&hide_border=false)<br/>
