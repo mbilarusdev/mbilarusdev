@@ -8,10 +8,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mbilarusdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbilarusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2>🏆 Trophies:</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=atovmasan&theme=radical&no-frame=false&theme=dark&margin-w=4)
-
 <h2>🔧 I've been working with:</h2>
 <h5>Languages/frameworks</h5>
 <span><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
